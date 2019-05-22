@@ -1,2 +1,7 @@
-# cuneiform-transliteration-to-unicode
-turn cuneiform Unicode block into key value array
+# Example of usage
+
+http://ecomparatio.net/~khk/keil/keili.html
+
+# Creating lists
+
+# Using the lists
